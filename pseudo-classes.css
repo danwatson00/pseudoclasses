@@ -1,0 +1,14 @@
+li {
+    display: inline;
+    list-style-type: none;
+}
+
+.inline {
+    display: block;
+    border-width: 1px;
+    margin: 25px;
+}
+
+.n-child section {
+    border-width: 1px;
+}
